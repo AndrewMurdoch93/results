@@ -1,0 +1,3 @@
+wpt arc was narrowed to +-pi/4
+
+agent name = 'v_control_path_reward_8'
